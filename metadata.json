@@ -1,0 +1,7 @@
+{
+  "name": "JourneyMate",
+  "description": "A proactive travel companion app tracking your journey from Dallas to Austin with AI-powered trivia and smart stops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
